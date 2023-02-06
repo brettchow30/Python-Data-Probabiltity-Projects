@@ -1,2 +1,2 @@
 # ECE-105
-Python Programming for Engineers Class
+Python Programming for Engineers Class- This course will cover advanced usage and understanding of programming concepts using Python within the Linux environment. By the end of the course, students will not only possess strong programming capabilities but will also have a firm grasp on scientific computing fundamentals. Students should already have a working knowledge of bash, python, pylint, tmux/GNU screen, X11 tunnelling, and at least one terminal based editor (vim, nano, joe, etc) from ENGR 131 or ENGR 132.

@@ -1,0 +1,14 @@
+12 players, 1000 rounds
+score	pts/rnd	name
+  3395	+0.30864	bmc96_9
+  3225	+0.29318	PPropResp
+  2263	+0.20573	PAlwaysR
+   775	+0.07045	PLastWin
+    42	+0.00382	PRandRPS
+   -54	-0.00491	PLastWinWin
+   -75	-0.00682	PRandRS
+  -694	-0.06309	PRandPS
+  -723	-0.06573	PRandRP
+  -987	-0.08973	PAlwaysS
+ -3002	-0.27291	PAlwaysP
+ -4165	-0.37864	PLastLose

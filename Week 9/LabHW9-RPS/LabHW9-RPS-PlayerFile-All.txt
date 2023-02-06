@@ -1,0 +1,12 @@
+PAlwaysP
+PAlwaysR
+PAlwaysS
+PLastLose
+PLastWin
+PLastWinWin
+PPropResp
+PRandPS
+PRandRP
+PRandRPS
+PRandRS
+bmc96_9
